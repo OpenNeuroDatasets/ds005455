@@ -1,6 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-056_task-LanguageControl_run-01_bold.nii.gz	2000-02-09T01:46:22	Guo	069b9e05
-func/sub-056_task-LanguageControl_run-02_bold.nii.gz	2000-06-03T17:12:30	Guo	15809bd6
-func/sub-056_task-CognitiveControl_run-01_bold.nii.gz	2000-09-14T00:18:49	Guo	515a001e
-func/sub-056_task-CognitiveControl_run-02_bold.nii.gz	2000-06-03T16:30:15	Guo	6a62705f
-anat/sub-056_T1w.nii.gz	2000-07-22T19:38:08	Guo	7edeacff
